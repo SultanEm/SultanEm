@@ -3,7 +3,7 @@
 Hey, I'm Sultan. I am a 2nd-year student at [UW](https://uwaterloo.ca/) and currently enrolled in Computer Engineering. 
 
 ## 🔭 What I'm working on ...
-- Developing Liteboard.io, an online lecturing experience, that allows users to quickly set up a classroom with State-of-the-Art drawing tools and webcam/audio broadcasts
+- Developing Liteboard.io, an open-source online lecturing experience, that allows users to quickly set up a classroom with State-of-the-Art drawing tools and webcam/audio broadcasts
 - Looking for a Winter 2021 (Jan - Apr) internship
 
 ## 🌱 What I'm learning ...
