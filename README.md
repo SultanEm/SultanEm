@@ -3,8 +3,8 @@
 Hey, I'm Sultan. I am a 3rd-year student at [UW](https://uwaterloo.ca/) and currently enrolled in Computer Engineering. 
 
 ## 🔭 What I'm working on ...
-- Developing Liteboard.io, an open-source online lecturing experience, that allows users to quickly set up a classroom with State-of-the-Art drawing tools and webcam/audio broadcasts
-- Looking for a Winter 2022 (Jan - Apr) internship
+- Developing at D2L
+- Looking for a Summer 2022 (May - Aug) internship
 
 ## 🌱 What I'm learning ...
 - Code optimization by utilizing threads, concurrency, and synchronization
