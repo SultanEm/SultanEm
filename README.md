@@ -1,6 +1,6 @@
 # 👋 Sultan Emaish - @SultanEm
 
-Hey, I'm Sultan. I am a 3rd-year student at [UW](https://uwaterloo.ca/) and currently enrolled in Computer Engineering. 
+Hey, I'm Sultan. I am a 4th-year student at [UW](https://uwaterloo.ca/) and currently enrolled in Computer Engineering. 
 
 ## 🔭 What I'm working on ...
 - Developing at D2L
