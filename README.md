@@ -3,8 +3,8 @@
 Hey, I'm Sultan. I am a 4th-year student at [UW](https://uwaterloo.ca/) and currently enrolled in Computer Engineering. 
 
 ## 🔭 What I'm working on ...
-- Developing at D2L
-- Looking for a Summer 2022 (May - Aug) internship
+- 4A term at UWaterloo
+- Looking for a Fall 2022 Internship
 
 ## 🌱 What I'm learning ...
 - Code optimization by utilizing threads, concurrency, and synchronization
